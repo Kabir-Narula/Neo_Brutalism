@@ -1,6 +1,6 @@
 "use client";
 
-import { LayoutProvider, useLayout } from "@/context/LayoutContext";
+import { useLayout } from "@/context/LayoutContext";
 import { HeroSection } from "@/components/sections/HeroSection";
 import { MarqueeSection } from "@/components/sections/MarqueeSection";
 import { ProjectsSection } from "@/components/sections/ProjectsSection";
